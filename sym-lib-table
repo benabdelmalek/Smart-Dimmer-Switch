@@ -1,5 +1,0 @@
-(sym_lib_table
-  (lib (name New_Library)(type Legacy)(uri ${KIPRJMOD}/New_Library.lib)(options "")(descr ""))
-  (lib (name HLK-5M05)(type Legacy)(uri ${KIPRJMOD}/Library/HLK-5M05/HLK-5M05.lib)(options "")(descr ""))
-  (lib (name XC6210B302MR-G)(type Legacy)(uri ${KIPRJMOD}/Library/XC6210B302MR/XC6210B302MR-G.lib)(options "")(descr ""))
-)
